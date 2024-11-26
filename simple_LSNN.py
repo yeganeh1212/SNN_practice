@@ -82,4 +82,3 @@ plt.xlabel("Time")
 plt.ylabel("Output")
 
 plt.tight_layout()
-plt.show()
