@@ -26,7 +26,7 @@ t = sol.t
 x = sol.y[0]
 lambda_ = sol.y[1]
 u = -lambda_ / (2 * beta)
-
+print(u)
 # Plot the results
 plt.figure(figsize=(12, 6))
 
